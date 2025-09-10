@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int x;
+    long long y;
+    char ch;
+    float fl;
+    double db;
+ 
+    cin >> x >> y >> ch >> fl >> db;
+  
+    cout << x << endl;
+    cout << y << endl;
+    cout << ch << endl;
+    cout << fl << endl;
+    cout << db << endl;
+    return 0;
+}
