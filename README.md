@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adametoo/iti-flutter/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Adametoo/iti-flutter/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adametoo/iti-flutter/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Adametoo/iti-flutter/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Adametoo/iti-flutter/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
